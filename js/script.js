@@ -76,7 +76,7 @@ $(function() {
         if($(window).scrollTop() > 50) {
             $("nav").addClass("active");
             
-            document.getElementById("logoHeader").url = "../img/logo_header.png";
+            document.getElementById("logoHeader").src = "../img/logo_header.png";
             document.getElementsByTagName("nav")[0].style.borderBottom = "solid 1px #d7d7d7";
             document.getElementsByClassName('checkbtn')[0].style.color = '#000';
             
