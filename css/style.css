@@ -274,7 +274,7 @@ nav ul li button:hover {
 	margin: 0vw 0vw 0vw 0vw;
 	padding: 15vw 0vw 0vw 0vw;
 
-	background: linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('img/slider1.jpg');
+	background: linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('../img/slider1.jpg');
 
 
 	background-position: center center;
